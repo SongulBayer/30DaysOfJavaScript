@@ -1,0 +1,1 @@
+--built-in function : yerleşik fonksiyon demek.yerleşik fonksiyon da önceden tanımlanmış kullanıma hazır fonksiyonlardır
