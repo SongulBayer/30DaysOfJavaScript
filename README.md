@@ -2,5 +2,5 @@
 
 ##### :arrow_right: https://github.com/Asabeneh/30-Days-Of-JavaScript
 
-##### https://www.youtube.com/watch?v=8A7RWDgkXgg
+##### :arrow_right: https://www.youtube.com/watch?v=8A7RWDgkXgg
  
